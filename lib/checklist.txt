@@ -1,0 +1,3 @@
+Usar o stack para usar o plano de fundo
+
+Ao invés de fazer uma lista com os álbuns fazer um gridview
